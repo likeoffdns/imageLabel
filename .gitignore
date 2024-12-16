@@ -1,0 +1,59 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by tools like nyc
+coverage
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Dist directories
+dist/
+build/
+output/
+
+# Temporary files
+tmp/
+temp/
+
+# Debug files
+*.swp
+*.swo
+*.tmp
+
+# Environment variables
+.env
+.env.test
+.env.production
+.env.development.local
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.iml
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# npm package-lock
+package-lock.json
+
+# TypeScript build files
+*.tsbuildinfo
+
+# Output from jest
+jest-coverage/
